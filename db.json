@@ -1,0 +1,69 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "MobileName": "iPhone 15",
+      "MobileModel": "Apple",
+      "MobilePrice": 799,
+      "ReleaseDate": "09/22/2023",
+      "NetworkCompatibility": "5G",
+      "ImageURL": "https://i.ibb.co/jrt8nR3/iphone.jpg",
+      "URL": "https://www.apple.com/shop/buy-iphone/iphone-15",
+      "ColorOptions": ["#000000", "#ffffff", "#ff0000"],
+      "Rating": 4.5,
+      "Speciality": "Powerful performance and advanced camera system"
+    },
+    {
+      "id": 2,
+      "MobileName": "Galaxy S24",
+      "MobileModel": "Samsung",
+      "MobilePrice": 859,
+      "ReleaseDate": "01/31/2024",
+      "NetworkCompatibility": "5G",
+      "ImageURL": "https://i.ibb.co/SKc1rV7/samsung.jpg",
+      "URL": "https://www.samsung.com/us/smartphones/galaxy-s24/buy",
+      "ColorOptions": ["#0000ff", "#00ff00", "#ff00ff"],
+      "Rating": 4.0,
+      "Speciality": "Impressive display and enhanced camera features"
+    },
+    {
+      "id": 3,
+      "MobileName": "Pixel 8",
+      "MobileModel": "Google",
+      "MobilePrice": 499,
+      "ReleaseDate": "10/04/2023",
+      "NetworkCompatibility": "5G",
+      "ImageURL": "https://i.ibb.co/r6v4wn5/pixel8.webp",
+      "URL": "https://store.google.com/us/product/pixel_8",
+      "ColorOptions": ["#ff0000", "#00ff00", "#0000ff"],
+      "Rating": 4.2,
+      "Speciality": "Superb camera performance and clean Android experience"
+    },
+    {
+      "id": 4,
+      "MobileName": "OnePlus 12",
+      "MobileModel": "OnePlus",
+      "MobilePrice": 899,
+      "ReleaseDate": "01/23/2024",
+      "NetworkCompatibility": "5G",
+      "ImageURL": "https://i.ibb.co/r0PPh06/oneplus12.jpg",
+      "URL": "https://www.oneplus.com/us/oneplus-12",
+      "ColorOptions": ["#000000", "#ffffff", "#ff0000"],
+      "Rating": 4.7,
+      "Speciality": "Smooth performance and fast charging technology"
+    },
+    {
+      "id": 5,
+      "MobileName": "Xiaomi 13T Pro",
+      "MobileModel": "Xiaomi",
+      "MobilePrice": 1680,
+      "ReleaseDate": "09/26/2023",
+      "NetworkCompatibility": "5G",
+      "ImageURL": "https://i.ibb.co/kBcXmyy/xiami.webp",
+      "URL": "https://miusastore.com/product/xiaomi-13t-pro-5g/",
+      "ColorOptions": ["#000000", "#ffffff", "#00ff00"],
+      "Rating": 4.3,
+      "Speciality": "High-end features at an affordable price"
+    }
+  ]
+}
